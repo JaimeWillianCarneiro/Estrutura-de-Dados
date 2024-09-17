@@ -24,4 +24,7 @@ def volume1 (a b c : Nat) : Nat := a * b *c
 
 def volume2 : Nat -> Nat -> Nat -> Nat
   | 0, _, _ -> 0
-  | x,y,x -> x*y*z
+  | x,y,x -
+
+
+  > x*y*z
